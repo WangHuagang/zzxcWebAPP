@@ -1,0 +1,64 @@
+body{
+    font-size: 12px;
+    max-width: 640px;
+    min-width: 300px;
+}
+
+html{
+    max-width: 640px;
+    min-width: 300px;
+}
+.con_title{
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.isrr{
+    width: 80%;
+    height: 80%;
+    padding: 5% 10%;
+}
+.introduce{
+    text-indent: 20px;
+    font-size: 14px;
+    line-height: 25px;
+}
+.title{
+    border-left: 15px solid #618aff;
+    padding-left: 10px;
+}
+.payImg{
+    width: 40%;
+    float: left;
+    padding: 2% 5%;
+}
+
+.borderLest{
+    border-left: 10px solid #618aff;
+    padding-left: 15px;
+}
+.bgColor{
+    background: #5eeca4 !important;
+    color: black !important;
+}
+
+.listImg{
+    width: 40%;
+    height: 90%;
+    padding-right: 50px;
+    padding-top: 3px;
+}
+
+.pop p{
+    line-height: 30px;
+}
+.hbImg{
+    width: 100%;
+}
+.a_NoLine{
+    text-decoration: none;
+}
